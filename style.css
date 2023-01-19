@@ -22,7 +22,7 @@ body {
 .container {
     width: 100%;
     height: 100%;
-    background-image: url(/benjamin-voros-phIFdC6lA4E-unsplash.jpg);
+    background-image: url(./benjamin-voros-phIFdC6lA4E-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
